@@ -3,7 +3,7 @@
 <div align="left"> 
   I'm a Graduate Student at Northeastern University pursuing Masters in Analytics and Applied Machine Intelligence<br>
   
-<h3> About Me:</h3>
+<h3> About Me </h3>
   
   - :zap: Broad experience in Machine Learning Applications like Computer Vision, and NLP
   
