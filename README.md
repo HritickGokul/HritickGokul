@@ -1,5 +1,40 @@
-I’m a software and machine learning engineer interested in building practical AI systems and the infrastructure behind them.
+# Hrithick Gokul Yeddula
 
-I’ve worked across ML, backend engineering, distributed systems, and AI-powered automation, using technologies like Python, PyTorch, LLMs, FastAPI, Kafka, Kubernetes, and cloud platforms.
+**Software Engineer | AI Systems & Backend Infrastructure**
 
-I’m especially interested in ML infrastructure, distributed systems, backend engineering, and agentic AI, and I enjoy learning by building and solving problems that have real-world impact.
+I build production-oriented AI and backend systems with a focus on
+distributed processing, model serving, APIs, reliability, and performance.
+
+Currently working as a Machine Learning Engineer and building deeper expertise
+in AI infrastructure and distributed systems.
+
+## Currently Building
+
+### Distributed LLM Inference Platform
+
+Building a production-oriented model serving system to explore:
+
+- request scheduling and worker pools
+- retries and idempotency
+- rate limiting and backpressure
+- inference observability
+- latency and throughput benchmarking
+- failure recovery
+
+**Python · FastAPI · Redis · PyTorch · Docker**
+
+## Engineering Focus
+
+- AI infrastructure & model serving
+- Distributed systems
+- Backend architecture
+- Reliability & observability
+- Performance engineering
+- LLM evaluation and agent infrastructure
+
+## Writing
+
+I document systems I build, failures I encounter, benchmarks I run,
+and engineering trade-offs I learn from.
+
+[LinkedIn](https://www.linkedin.com/in/hrithickgokul/)
